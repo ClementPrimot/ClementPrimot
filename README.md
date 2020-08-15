@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey! I'm Clément, nice to meet you 👋
 
-<!--
-**ClementPrimot/ClementPrimot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a junior PHP developer, and sysadmin!
+## I'm also playing with some network things (AS213248)
 
-Here are some ideas to get you started:
+# Come say hello on
+- [Twitter](https://twitter.com/ClementPrimot)
+- [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-primot-162394177/)
+- [Telegram](http://telegram.me/ClementPrimot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+
+![ClementPrimot's github stats](https://github-readme-stats.vercel.app/api?username=ClementPrimot&show_icons=true&theme=dark)
