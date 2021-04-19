@@ -1,7 +1,7 @@
 # Hey! I'm Clément, nice to meet you 👋
 
-## I'm a junior PHP developer, and sysadmin!
-## I'm also playing with some network things (AS213248)
+## I'm a sys & netadmin
+## Work on AS213248 & AS205344
 
 # Come say hello on
 - [Twitter](https://twitter.com/ClementPrimot)
