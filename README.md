@@ -6,7 +6,7 @@
 # Come say hello on
 - [Twitter](https://twitter.com/ClementPrimot)
 - [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-primot-162394177/)
-- [Telegram](http://telegram.me/ClementPrimot)
+- [Telegram](http://telegram.me/PClement)
 
 ___
 
